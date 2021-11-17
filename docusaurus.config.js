@@ -9,7 +9,7 @@ const config = {
   title: 'Leaf Loans',
   tagline: 'Leaf Loans ',
   url: 'https://leafglobalfintech.github.io/',
-  baseUrl: '/leaf_loans',
+  baseUrl: '/leaf_loans/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
