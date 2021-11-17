@@ -8,13 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Leaf Loans',
   tagline: 'Leaf Loans ',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://leafglobalfintech.github.io/',
+  baseUrl: '/leaf_loans',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'LeafGlobalFintech', // Usually your GitHub org/user name.
-  projectName: 'Leaf Loans', // Usually your repo name.
+  projectName: 'leaf_loans', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+  trailingSlash: true,
 
   presets: [
     [
