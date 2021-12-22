@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkleaf_loans=self.webpackChunkleaf_loans||[]).push([[601],{9882:function(a){a.exports=JSON.parse('{"allTagsPath":"/leaf_loans/blog/tags","slug":"/leaf_loans/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/leaf_loans/blog/tags/docusaurus"}')}}]);

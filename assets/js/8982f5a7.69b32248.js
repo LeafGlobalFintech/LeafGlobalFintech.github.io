@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkleaf_loans=self.webpackChunkleaf_loans||[]).push([[697],{9435:function(l){l.exports=JSON.parse('{"allTagsPath":"/leaf_loans/blog/tags","slug":"/leaf_loans/blog/tags/hello","name":"hello","count":2,"permalink":"/leaf_loans/blog/tags/hello"}')}}]);
