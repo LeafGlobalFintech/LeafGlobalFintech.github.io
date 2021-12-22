@@ -1,4 +1,6 @@
 ---
+id: contribiting
+title: Contribution Guidelines
 sidebar_position: 1
 ---
 
