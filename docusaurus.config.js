@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Leaf Global Fintech',
-  tagline: 'Leaf Global Fintech',
+  tagline: 'Virtual Banking Beyond Borders',
   url: 'https://leafglobalfintech.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
