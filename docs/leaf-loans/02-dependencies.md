@@ -93,7 +93,7 @@ Used to show the onboarding slides that are displayed when the app is opened for
 ### [JWT Decoder](https://pub.dev/packages/jwt_decoder)
 Used to read some values from the authentication token. 
 
-### [Package](https://pub.dev/packages/package_info)
+### [Package Info](https://pub.dev/packages/package_info)
 Used to show current app version on the about page.
 
 ### [Permission Handler](https://pub.dev/packages/permission_handler)
