@@ -58,16 +58,9 @@ const config = {
             docId: 'overview',
           },
           {
-            type: 'doc',
-            docId: 'code_of_conduct',
             position: 'left',
             label: 'Project Charter',
-          },
-          {
-            type: 'doc',
-            docId: 'code_of_conduct',
-            position: 'right',
-            label: 'Code of Conduct',
+            to: '/project-charter',
           },
         ],
       },
