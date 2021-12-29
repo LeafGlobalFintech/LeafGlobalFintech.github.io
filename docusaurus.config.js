@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Leaf Loans',
-  tagline: 'Leaf Loans ',
+  title: 'Leaf Global Fintech',
+  tagline: 'Leaf Global Fintech',
   url: 'https://leafglobalfintech.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -45,7 +45,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Leaf Loans',
+        title: 'Leaf Global Fintech',
         logo: {
           alt: 'Leaf Logo',
           src: 'img/logo.png',
@@ -53,9 +53,21 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
             position: 'left',
-            label: 'Docs',
+            label: 'Documentation',
+            docId: 'overview',
+          },
+          {
+            type: 'doc',
+            docId: 'code_of_conduct',
+            position: 'left',
+            label: 'Project Charter',
+          },
+          {
+            type: 'doc',
+            docId: 'code_of_conduct',
+            position: 'right',
+            label: 'Code of Conduct',
           },
         ],
       },
@@ -67,7 +79,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/docs/intro',
+                to: 'docs',
               },
             ],
           },
