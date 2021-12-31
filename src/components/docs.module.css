@@ -17,8 +17,10 @@
 }
 
 .bareLink {
-  text-decoration: none;
+  text-decoration: none!important;
+  color: var(--ifm-pre-color-text);
 }
 .bareLink:hover {
-  text-decoration: none;
+  text-decoration: none!important;
+
 }
