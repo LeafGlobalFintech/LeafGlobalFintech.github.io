@@ -10,7 +10,7 @@ const config = {
   tagline: 'Virtual Banking Beyond Borders',
   url: 'https://leafglobalfintech.github.io/',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'LeafGlobalFintech', // Usually your GitHub org/user name.
