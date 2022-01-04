@@ -12,6 +12,8 @@ The **data** layer is responsible for implementing repositories that abide the r
 
 The **presentation** layer is responsible for the UI, state, and user interactions and user interaction related events.
 
+One of these user interaction related events is analytics. In order to add an event to the analytics, one will have to create a method in the respective analytics class that takes the required information as an argument and class the `logEvent` or any other relevant method from the analytics integration with the event name and given arguments.
+
 In addition to the above layers, every feature has an IOC directory which is used to register remote repositories which abide the repository contract. This is where one would replace the repository implementation with another one.
 
 
