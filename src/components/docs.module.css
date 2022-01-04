@@ -1,0 +1,26 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 100px;
+  width: 200px;
+}
+
+/*increase elevation when hovered*/
+.sectionCard:hover {
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+  background-color: rgb(146, 224, 208);
+}
+
+.bareLink {
+  text-decoration: none!important;
+  color: var(--ifm-pre-color-text);
+}
+.bareLink:hover {
+  text-decoration: none!important;
+
+}
