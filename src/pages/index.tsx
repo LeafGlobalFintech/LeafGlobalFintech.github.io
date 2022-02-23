@@ -21,6 +21,14 @@ function HomepageHeader() {
             >
               📃 Start exploring now
             </Link>
+            <div style={{ width: 100 }}></div>
+            <a
+              className="button button--secondary button--lg"
+              href="https://discord.gg/uRezuHUecg"
+              target={`_blank`}
+            >
+              Join our Discord Server
+            </a>
           </div>
         </div>
       </header>
