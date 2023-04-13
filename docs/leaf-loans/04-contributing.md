@@ -33,7 +33,7 @@ If you run the app from terminal, you can pass the arguments as follows
 1. Install with
 
     ```sh
-    git clone https://github.com/LeafGlobalFintech/loan_app
+    git clone https://github.com/coretech/loan_app
     cd loan_app
     flutter run --dart-define CREDO_AUTH_KEY=CREDO_AUTH_KEY --dart-define CREDO_URL=CREDO_URL
     ```

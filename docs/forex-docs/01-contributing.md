@@ -14,7 +14,7 @@
 1. Install with
 
     ```sh
-    git clone https://github.com/LeafGlobalFintech/forex-tool
+    git clone https://github.com/coretech/forex-tool
     cd forex-tool
     npm i
     npm run dev

@@ -25,7 +25,7 @@ This project will include:
 
 ## Documentation
 
-You can find our postman collection link [here](https://www.getpostman.com/collections/8b3906d9ca9a61be1a02)
+You can find our postman collection link [here](https://api.postman.com/collections/6790492-0787a21f-ea6b-4c50-a185-71b9e5e442d1?access_key=PMAT-01GXVEAP8GTADZW32WXZDRDD19)
 
 ## Commit Message Structure
 
@@ -61,4 +61,4 @@ Example: feat&fix: added readme file, fixed typo in readme file
 
 # Contributing
 
-If you want to contribute to the project, check out our [Contribution Guidelines](https://github.com/LeafGlobalFintech/forex-tool/blob/develop/CONTRIBUTING.md)
+If you want to contribute to the project, check out our [Contribution Guidelines](https://github.com/coretech/forex-tool/blob/develop/CONTRIBUTING.md)
